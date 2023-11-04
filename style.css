@@ -1,0 +1,28 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #e2edff;
+}
+
+#projects {
+  background-color: #e2edff;
+}
+
+section {
+  padding-top: 5rem;
+}
+
+
+.carousel-inner {
+  text-align: center;
+}
+.carousel-item img {
+  max-width: 400px;
+  display: inline-block;
+  margin: 0 auto;
+}
+
+.carousel-control-prev-icon,
+  .carousel-control-next-icon {
+    background-color: #808080; /* Ganti dengan warna abu-abu yang Anda inginkan */
+    color: transparent; /* Membuat warna asli ikon panah menjadi transparan */
+  }
